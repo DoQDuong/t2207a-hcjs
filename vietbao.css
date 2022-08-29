@@ -1,0 +1,14 @@
+h1{
+    margin: 15px 0;
+    font-size: 28px;
+    font-family: Utmhel;
+    line-height: 30px;
+    display: block;
+    font-weight: 400;
+}
+.sapo_detail>span{
+    font-size: 13px;
+    color: #fff;
+    background-color: #ea0000;
+    padding: 2px 5px;
+}
