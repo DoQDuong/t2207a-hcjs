@@ -1,5 +1,5 @@
-h1,h5{
-    font-weight: 400;
+h1{
+    font-weight: 700;
     line-height: normal;
     display: inline;
 }
@@ -20,4 +20,10 @@ h5{
     color: #fff;
     background-color: #ea0000;
     padding: 2px 5px;
+}
+p{
+    width: 650px;
+}
+h4{
+    font-weight: bold;
 }
