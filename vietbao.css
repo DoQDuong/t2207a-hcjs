@@ -13,6 +13,7 @@ body{
     margin: 6px auto;
 }
 h5{
+    text-align: center;
     font-weight: bold;
 }
 .detail>span{
