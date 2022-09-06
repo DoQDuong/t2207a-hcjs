@@ -69,20 +69,20 @@ img{
 .one-col .content{
     width: 100%;
 }
-.three-col .content{
+.threecol .content{
     width: 50%;
 }
-nav li{
+nav p{
     float: right;
-    width: 6%;
+    width: 5%;
 }
-div{
+div {
     width: calc(25% - 30px);
     float: left;
-    margin: 10px 15px auto;
+    margin: 10px 15px;
     padding: 10px 45px;
     border-radius: 6px;
-    box-sizing: content-box;
+    box-sizing: initial;
 }
 .box1{
     background-color: white;
