@@ -36,7 +36,7 @@ img{
 }
 .restaurant{
     float: left;
-    width: 8%;
+    width: 9%;
 }
 .burgers{
     float: left;
@@ -52,11 +52,11 @@ img{
 }
 .sdt{
     float: right;
-    width: 8%;
+    width: 12%;
 }
 .diachi{
     float: right;
-    width: 25%;
+    width: 30%;
 }
 .sidebar{
     float: left;
@@ -74,20 +74,20 @@ img{
 }
 nav p{
     float: right;
-    width: 5%;
+    width: 7%;
 }
-div {
-    width: calc(30% - 30px);
+div{
+    width: calc(25% - 30px);
     float: left;
-    margin: 10px 15px;
-    padding: 8px 15px;
+    margin: 12px 19px;
+    padding: 3px 10px;
     border-radius: 6px;
     box-sizing: initial;
 }
 .box1{
     background-color: white;
-    width: calc(30% - 30px);;
-    margin: 10px 15px auto;
+    width: calc(25% - 30px);;
+    margin: 20px 30px auto;
     padding: 8px 15px;
     box-sizing: content-box;
 }
