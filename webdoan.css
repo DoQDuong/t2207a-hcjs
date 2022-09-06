@@ -24,7 +24,7 @@ img{
 }
 .section{
     background-color: white;
-    height: 50px;
+    height: 55px;
     float: left;
     width: 100%;
 }
@@ -36,11 +36,11 @@ img{
 }
 .restaurant{
     float: left;
-    width: 7%;
+    width: 8%;
 }
 .burgers{
     float: left;
-    width: 6%;
+    width: 8%;
 }
 .anh1{
     float: left;
@@ -48,7 +48,7 @@ img{
 }
 .pizza{
     float: left;
-    width: 5%;
+    width: 8%;
 }
 .sdt{
     float: right;
@@ -90,9 +90,6 @@ div {
     margin: 10px 15px auto;
     padding: 8px 15px;
     box-sizing: content-box;
-}
-.box1:hover{
-    transform: scale(1.1);
 }
 p{
     font-family: "Open Sans";
