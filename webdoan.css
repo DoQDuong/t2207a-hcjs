@@ -86,7 +86,7 @@ div{
 }
 .box1{
     background-color: white;
-    width: calc(25% - 30px);;
+    width: calc(30% - 40px);;
     margin: 20px 30px auto;
     padding: 8px 15px;
     box-sizing: content-box;
@@ -99,4 +99,5 @@ h3{
     font-family: "Playfair Display";
     font-size: 19px;
     font-weight: 700;
+    color: orangered;
 }
